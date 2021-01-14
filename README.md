@@ -4,9 +4,9 @@
 
 > This assignment consists of making a clone of a New York Times article page.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./assets/app_screenshot.png)
 
-Additional description about the project and its features.
+Article page of NYT
 
 ## Built With
 
@@ -14,7 +14,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://sjcco.github.io/Project-1-Positioning-and-Floating-Elements/)
 
 
 
@@ -25,6 +25,7 @@ Additional description about the project and its features.
 👤 **Author1**
 
 - GitHub: [@sjcco](https://github.com/sjcco)
+- Twitter:[@CarlosCamposO](https://twitter.com/CarlosCamposO)
 
 
 
